@@ -1,0 +1,9 @@
+django
+django-werkzeug-debugger-runserver
+django_extensions
+django_sslserver
+google-cloud-speech
+pydub
+soundfile
+tqdm
+matplotlib
